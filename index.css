@@ -142,3 +142,65 @@ display: flex;
     font-weight: 400;
     color: #9a9a9a;
 }
+
+
+.right_box2{
+    margin-top: 20px;
+    border: 4px solid #f0efb6;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right_box:hover,
+.right_box2:hover{
+    border: 4px solid grey;
+    transition: 0.5s;
+}
+
+/* ========== footer start ======= */
+footer{
+    margin-top: 130px;
+    background: #eee9e9;
+}
+
+
+.footer_nav .ulshoes1 .liazeez:hover{
+    background: #c7c360;
+    transition: 1s;
+   
+}
+.liazeez1{
+    padding: 19px 24px 21px 28px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: red;
+    text-decoration: underline ;
+}
+
+.krassofki1{
+    color: black;
+    transition: 0.5s;
+}
+
+.krassofki1:hover{
+    color: red;
+}
+.logo1 img{
+    padding-top: 100px;
+    /* padding-bottom: px; */
+}
+
+.ulshoes1{
+    padding-bottom: 87px;
+    padding-top: 100px;
+}
+
+
+.maket{
+   text-align: center;
+   font-weight: 700;
+   font-size: 18px;
+   color: #5a5a5a;
+}
